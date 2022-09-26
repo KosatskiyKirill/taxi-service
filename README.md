@@ -1,7 +1,7 @@
 # :oncoming_taxi: Taxi Service :oncoming_taxi:
 ![taxi](https://fainaidea.com/wp-content/uploads/2017/01/taxi.jpg)
 
-The goal of this project is to create a taxi service with authentication system, custom injector, annotations and all the features that might come in handy while managing the app:
+The goal of this project is to create a taxi service with authentication system, annotations and all the features that might come in handy while managing the app:
 
 * During the first launch you will be redirected to a login page where you have two opportunities:
     * register a new driver
