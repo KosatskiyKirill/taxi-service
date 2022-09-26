@@ -9,7 +9,7 @@ The goal of this project is to create a taxi service with authentication system,
 * To use all features you need to create new driver and authenticate
 * Driver can add himself to different cars
 * All of the remaining functionality you can find by starting the app
-## Implementation details and technologies :clipboard:
+## Implementation details :clipboard:
 Project based on 3-layer architecture:
 * Presentation layer (controllers)
 * Application layer (services)
